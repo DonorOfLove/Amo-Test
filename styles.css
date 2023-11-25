@@ -25,10 +25,12 @@ li {
     padding: 5px 0;
 }
 
-body {
-    background: url(/assets/img/light.png);
-    background-size: cover;
+html{
     background-color: #0E1014;
+}
+body {
+    background: url("assets/img/light.png");
+    background-size: cover;
     color: white;
     overflow-x: hidden;
 }
